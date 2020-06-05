@@ -1,5 +1,3 @@
-# RestBank App
-
 ## [Visit the App](https://www.thompsonsampling.com/)
 
 <br>
